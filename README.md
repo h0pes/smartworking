@@ -42,3 +42,11 @@ No copyrights or any of that nonsense.
 I don't assume ANY responsibility for how anyone uses it.
 Always ski in control. Comments and questions on github.
 
+## **Screenshots**
+![smartworking_userhome](https://cloud.githubusercontent.com/assets/25418553/22620864/10dc15ec-eb15-11e6-9ac9-8eb64a1710db.JPG)
+![smartworking_useraddplanning](https://cloud.githubusercontent.com/assets/25418553/22620865/10dd19ba-eb15-11e6-87d5-941bf7c9efd3.JPG)
+![smartworking_userviewplanning](https://cloud.githubusercontent.com/assets/25418553/22620869/10f23070-eb15-11e6-9155-09d28811b244.JPG)
+![smartworking_sendemail](https://cloud.githubusercontent.com/assets/25418553/22620867/10e0fd50-eb15-11e6-827c-8f1ad0b0b7fc.JPG)
+![smartworking_useraddplanningrequested](https://cloud.githubusercontent.com/assets/25418553/22620866/10de182e-eb15-11e6-876f-fe5f1e98bcf9.JPG)
+![smartworking_approvereject](https://cloud.githubusercontent.com/assets/25418553/22620868/10e1cdf2-eb15-11e6-8d1e-831005a16bb0.JPG)
+![smartworking_approverejectoverview](https://cloud.githubusercontent.com/assets/25418553/22620870/110ad4e0-eb15-11e6-88bc-bc87c23cdf98.JPG)
