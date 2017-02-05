@@ -1,10 +1,6 @@
-## **Dev environment**
-
-The application has been built and tested in the following environment:
-
-- Java™ SE Development Kit 8, Update 65 (JDK 8u65)
-- Apache Tomcat 8.0.33
-- MySQL 5.7.11-log
+# **Smart Working application**
+This is a test application made for learning JSP and servlet purpose.
+Don't use it in production environment.
 
 ## **Main features**
 
@@ -17,6 +13,14 @@ Users can also submit a modification request but only if the manager has not yet
 A couple of available additional features are:
 - look at the office employees holidays caldendar, exporting such list in Excel
 - send an email where the user can report on the activities performed during his smart working days.
+
+## **Dev environment**
+
+The application has been built and tested in the following environment:
+
+- Java™ SE Development Kit 8, Update 65 (JDK 8u65)
+- Apache Tomcat 8.0.33
+- MySQL 5.7.11-log
 
 ## **Requisites**
 
